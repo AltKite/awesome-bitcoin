@@ -10,6 +10,7 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
     - [Bitcoin / Blockchain APIs](#Blockchain-APIs)
     - [SDK](#SDK)
 - [Services/Websites](#Service / Websites)
+    - [Rewards and games](#rewards-and-games)
     - [Wallets](#wallets)
     - [Lending/Loans](#Lending)
     - [Exchanges](#Exchanges)
@@ -38,6 +39,9 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 * [Bitcoin Core - Windows, Linux and Mac](https://bitcoin.org/en/bitcoin-core/) - The Official Bitcoin Wallet 
 
 # Services / Websites
+## Rewards and games
+* [LightningFaucet](https://lightningfaucet.com/) - Bitcoin Lightning faucet with free sats, sat-denominated games, poker, and prediction markets.
+
 ## Lending
 *Inclusive of general and Peer-to-Peer Leading.*
 * [BTCPop](btcpop.co) - a unique P2P Banking experience with Instant Loans, Investment Pools, Collateral Tied Loans & More
@@ -54,5 +58,3 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 *Active Bitcoin exchanges*
 * [Poloniex](Poloniex.com) - A US exchange trading in numerous virtual currencies, including Bitcoin, Ethereum, Litecoin and Dogecoin.
 * [ShapeShift](ShapeShift.io) - The fastest   way to swap cryptocurrencies. no account required.
-
-
