@@ -40,7 +40,7 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 
 # Services / Websites
 ## Rewards and games
-* [LightningFaucet](https://lightningfaucet.com/?utm_source=github&utm_medium=referral) - Bitcoin Lightning faucet with free sats, sat-denominated games, poker, and prediction markets.
+* [LightningFaucet](https://lightningfaucet.com/) - Bitcoin Lightning faucet with free sats, sat-denominated games, poker, and prediction markets.
 
 ## Lending
 *Inclusive of general and Peer-to-Peer Leading.*
