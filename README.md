@@ -38,6 +38,10 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 * [Bitcoin Core - Windows, Linux and Mac](https://bitcoin.org/en/bitcoin-core/) - The Official Bitcoin Wallet 
 
 # Services / Websites
+## Dashboards
+*Live market & network stats.*
+* [BTCDash](https://btcdash.org) - Free real-time Bitcoin dashboard: price with long-term MAs, halving countdown, hashrate & difficulty, fee market, Fear & Greed, on-chain metrics (MVRV, realized price, S2F) and Lightning stats. 74 live cards, client-side only, no signup. Includes a TV mode for wall screens.
+
 ## Lending
 *Inclusive of general and Peer-to-Peer Leading.*
 * [BTCPop](btcpop.co) - a unique P2P Banking experience with Instant Loans, Investment Pools, Collateral Tied Loans & More
