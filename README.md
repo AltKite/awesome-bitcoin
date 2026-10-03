@@ -13,6 +13,7 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
     - [Wallets](#wallets)
     - [Lending/Loans](#Lending)
     - [Exchanges](#Exchanges)
+    - [Side Chains](#Sidechains)
 
 # Software
 ## Blockchain APIs
@@ -54,5 +55,9 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 *Active Bitcoin exchanges*
 * [Poloniex](Poloniex.com) - A US exchange trading in numerous virtual currencies, including Bitcoin, Ethereum, Litecoin and Dogecoin.
 * [ShapeShift](ShapeShift.io) - The fastest   way to swap cryptocurrencies. no account required.
+
+## Sidechains
+
+- [OPCAT Layer](https://opcatlabs.io/) - Merge-mined Bitcoin L2 with UTXO-based smart contracts (sCrypt) and BTC as gas
 
 
